@@ -1,9 +1,17 @@
 # PII (Personally Identifiable Information) Detection & Redaction Tool
 
+### Built by **Team Avntra**:
+- [Harihar Jeevan](https://github.com/hariharjeevan)
+- [Arya H R](https://github.com/Arya-1-HR)
+- [Arman Sameer Jeena](https://github.com/jenaarmaan)
+- [Parinith R](https://github.com/parinith-png)
+
+---
+
 ## Overview
 
-### The PII Redaction Tool is a Python application designed to help users detect and redact Personally Identifiable Information (PII) from PDF documents. 
-### This tool supports various PII types, including AADHAAR numbers, PAN numbers, email addresses, phone numbers and is further customizable.
+The PII Redaction Tool is a Python application designed to help users detect and redact Personally Identifiable Information (PII) from PDF documents.  
+This tool supports various PII types, including AADHAAR numbers, PAN numbers, email addresses, phone numbers and is further customizable.
 
 ## Features
 
@@ -25,4 +33,6 @@
   - `matplotlib`
   - `presidio-analyzer`
 
+## Achievements
 
+🏆 **First Runner-Up** at [KODiKON 4.0](https://www.embrionepes.com/kodikon-4), a 24-hour national-level hackathon sponsored by [SentinelOne®](https://www.sentinelone.com/?ad_id=644475838448&gad_campaignid=19538119170), hosted at **PES University, Bangalore** on **26th–27th October 2024**.
