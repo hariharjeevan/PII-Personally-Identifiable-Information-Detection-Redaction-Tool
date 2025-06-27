@@ -1,9 +1,9 @@
 # PII (Personally Identifiable Information) Detection & Redaction Tool
 
-### Built by **Team Avntra**:
+### Built by **Team Aventra**:
 - [Harihar Jeevan](https://github.com/hariharjeevan)
 - [Arya H R](https://github.com/Arya-1-HR)
-- [Arman Sameer Jeena](https://github.com/jenaarmaan)
+- [Armaan Sameer Jena](https://github.com/jenaarmaan)
 - [Parinith R](https://github.com/parinith-png)
 
 ---
